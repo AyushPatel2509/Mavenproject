@@ -1,9 +1,9 @@
-  package com.fortune.myapp; 
+  package mycompany.ayush.app; 
   
   
   /** 
   
-   * Hello Ayush! 
+   * Hello world! 
   
    */ 
   
@@ -11,7 +11,7 @@
   
    
   
-      private static final String MESSAGE = "Hello Ayush!"; 
+      private static final String MESSAGE = "Hello World!"; 
   
    
   

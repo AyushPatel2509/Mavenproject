@@ -1,4 +1,4 @@
-  package com.fortune.myapp; 
+  package mycompany.ayush.app; 
   
    
   
@@ -42,7 +42,7 @@
   
           App app = new App(); 
   
-          assertEquals("Hello Ayush!", app.getMessage()); 
+          assertEquals("Hello World!", app.getMessage()); 
   
       } 
   
